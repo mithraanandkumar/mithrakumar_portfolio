@@ -20,3 +20,8 @@ Here's my awesome portfolio. Hope you like it!
 i. Visualisation Using Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11155528"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+ii. Bar Race Chart using Flourish
+
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/11162358"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+

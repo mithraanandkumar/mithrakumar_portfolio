@@ -50,7 +50,7 @@ For a new visualization, I decided to use Bar Chart Race which is different from
 
 I used a bar chart race as the data moved from 1995 to 2019. This gives a sliding scale that can be used to create races. I did some pre-processing and cleaning to rearrange (take a transpose) the data. I used flags so that the viewer can easily associate to the country. The race is in a loop starting from1995 to 2019. There is a 30 seconds break before the next loop starts playing. If the user wants to view the graph for only one particular year they can do so by dragging the slider on the selection bar to the year. The bar chart above will be updated to the dept-to-GDP ratio in the selected year. 
 
-I wanted to use subtle colours and a sequential palette for this graph but Flourish gave me only a few options to play around with. I finally ended up using the antique palette from Flourish. Since the colors saturations are subtle, it won't be too bright on the viewer. I added a simple title - "General Government Debt" and added footer to include the source of the data. 
+I wanted to use subtle colours and a sequential palette for this graph but Flourish gave me only a few options to play around with. I finally ended up using the antique palette from Flourish. Since the colors saturations are subtle, it won't be too bright on the viewer. I added a simple title - "Debt Crisis?" and added footer to include the source of the data. 
  
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/11162358"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

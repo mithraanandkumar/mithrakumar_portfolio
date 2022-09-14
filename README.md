@@ -1,5 +1,6 @@
 # mithrakumar_portfolio
 This is my public portfolio for Telling Stories with Data!
+https://mithraanandkumar.github.io/mithrakumar_portfolio/
 
 # About me
 Hi! I am Mithra Anandkumar. I am a rising second year Masters student in Healthcare Analytics and I love analysing data!

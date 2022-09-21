@@ -14,7 +14,7 @@ Here's my awesome portfolio. Hope you like it!
 # Assignments:
 
 1. Visualising government debts
-2. 
+2. Assignment 3&4: Critique by Design
 3.
 4.
 

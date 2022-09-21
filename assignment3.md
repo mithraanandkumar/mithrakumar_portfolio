@@ -4,14 +4,14 @@
 
 I decided to critique and redesign the visualization called "The World's 25 Largest Banks by Market Capitalization" which can be found in the following link: https://www.swissinfo.ch/eng/business/by-the-numbers_is-switzerland-really-the-country-of-bankers-/40473658
 
-Context:
+## Context:
 
 The article talks about Switzerland's banking indusctry and its working labour force in the financial sector. The paragraph supporting the visaluization talks about how Switzerland's individual banks are no heavyweights in terms of market capitalization in comparison with other countries. 
 
 Why did I choose this visualization?
 I chose this visualization bacause at first glance I could not comprehend what the visualization was communicating. I wanted to try and improve the visualization and help other people like me who struggled to understand the graph. 
 
-Views on the Visualization:
+## Views on the Visualization:
 
 It’s a strange design choice. The only thing that worked for me is the labelling, as it is easy to associate the bank with the bar. There are a lot of things that didn’t work for me. 
 
@@ -25,7 +25,7 @@ The primary audience for this tool are aspiring bank professionals and economist
 
 The “Data Visualization Effectiveness Profile” method was very helpful in evaluating the data visualization selected. I was able to identify my views on the visualization and formulate few ideas to change the visaluzation. I went through the article to understand the context behind the graph. The graph fails to support the paragraph in terms of highlighting the country the whole article was focused on. I would get rid of the spiral chart and probably use Treemap or Horizontal bar graph to represent the data. I would change the color palette to highlight Switzerland. I would also change the title to support the article. 
 
-Wireframes:
+## Wireframes:
 
 I created two wireframes for my visualization. I created a horizontal bar chart and a treemap. 
 
@@ -50,7 +50,7 @@ Viewer 2 felt that the horizontal bar graph was clear and communicated the size 
  
 Based on the feedback provided by the 2 users, I moved on to change my visual accordingly.
 
-Building my solution:
+## Building my solution:
 
 I decided to stick with the treemap as this chart communicates what the article focuses on - Switzerland's individual banks are no heavyweights in terms of market capitalization in comparison with other countries.
 

@@ -37,18 +37,19 @@ My thought processs to create this wireframe was to get rid of the spiral chart 
 
 My thought processs to create this wireframe was to show a contarst between Swizerland and the other countries by creating a treemap with sequntial palette to indicate a contrast. 
  
-## Testing the solution
+### Testing the solution
 I got feedback from 2 people on my wireframe, each of which made me realize different things that I could improve with my visual:
 
-Viewer 1 indicated that it would be more useful in terms of understanding to place the more intuitive title instead of "Renting vs Buying" as the main heading at the top along with the areas that specify the renting and buying section on either side of the x-axis, as that's the first thing that gets noticed we see.
-Viewer 2 indicated that the story that my visual was concentrating on was in which states renting is more preferred than buying and to understand it much better I should use two colors for different areas renting and buying respectively.
-Viewer 1 also suggested that it might be interesting if I could highlight the states which were neutral and did not have much difference between renting and buying.
-Viewer 2 gave me a suggestion of instead of using boxes of Rent and Buy on either side of the axis, use a meter which would specify buying on the left side and renting on the right side.
-Viewer 1 indicated to help understand the context better, sort the bars on the basis of difference in amount.
-Viewer 2 also indicated that the legends should be added which describes your story and the title.
-Answers to some of the other questions that I asked:
+1. Viewer 1 indicated that it would be more useful in terms of understanding to place the more intuitive title instead of "Renting vs Buying" as the main heading at the top along with the areas that specify the renting and buying section on either side of the x-axis, as that's the first thing that gets noticed we see.
+2. Viewer 2 indicated that the story that my visual was concentrating on was in which states renting is more preferred than buying and to understand it much better I should use two colors for different areas renting and buying respectively.
+3. Viewer 1 also suggested that it might be interesting if I could highlight the states which were neutral and did not have much difference between renting and buying.
+4. Viewer 2 gave me a suggestion of instead of using boxes of Rent and Buy on either side of the axis, use a meter which would specify buying on the left side and renting on the right side.
+5. Viewer 1 indicated to help understand the context better, sort the bars on the basis of difference in amount.
+6. Viewer 2 also indicated that the legends should be added which describes your story and the title.
 
-Both users were able to identify that the plot was aimed towards the general public looking to identify states where renting is preferred than buying.
-Both users were able to understand the meaning of the visual and the interpretation being derived from them.
+Answers to some of the other questions that I asked:
+1. Both users were able to identify that the plot was aimed towards the general public looking to identify states where renting is preferred than buying.
+2. Both users were able to understand the meaning of the visual and the interpretation being derived from them.
+ 
 Based on the feedback provided by the 2 users, I moved on to change my visual accordingly.
 

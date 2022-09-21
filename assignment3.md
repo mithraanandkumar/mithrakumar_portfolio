@@ -38,18 +38,27 @@ My thought processs to create this wireframe was to get rid of the spiral chart 
 My thought processs to create this wireframe was to show a contarst between Swizerland and the other countries by creating a treemap with sequntial palette to indicate a contrast. 
  
 ### Testing the solution
-I got feedback from 2 people on my wireframe, each of which made me realize different things that I could improve with my visual:
+I got feedback from 2 people on my wireframes, each of which made me realize different things that I could improve with my visual. 
 
-1. Viewer 1 indicated that it would be more useful in terms of understanding to place the more intuitive title instead of "Renting vs Buying" as the main heading at the top along with the areas that specify the renting and buying section on either side of the x-axis, as that's the first thing that gets noticed we see.
-2. Viewer 2 indicated that the story that my visual was concentrating on was in which states renting is more preferred than buying and to understand it much better I should use two colors for different areas renting and buying respectively.
-3. Viewer 1 also suggested that it might be interesting if I could highlight the states which were neutral and did not have much difference between renting and buying.
-4. Viewer 2 gave me a suggestion of instead of using boxes of Rent and Buy on either side of the axis, use a meter which would specify buying on the left side and renting on the right side.
-5. Viewer 1 indicated to help understand the context better, sort the bars on the basis of difference in amount.
-6. Viewer 2 also indicated that the legends should be added which describes your story and the title.
+Viewer 1 (in their 20s):
+Viewer 1 felt that the treemap shows what the market capitalization is contributed by banks across different countries, and that the treemap communicates this at a country level thus allowing viewers to understand at a broader level. 
+Viewr 1 was not receptive to seeing so many different bars from the first wireframe and suggested to limit it to 10. They also pointed out that brazil and switzerland seem to be of the same size, however were represented by different colors which was misleading.
+Overall, viewer 1 felt that the sequential color palette looked good on the treemap but suggested to highlight the country in focus. From first look, they felt it looked like the insight is that US is performing really well on banking based market capitalization. 
 
-Answers to some of the other questions that I asked:
-1. Both users were able to identify that the plot was aimed towards the general public looking to identify states where renting is preferred than buying.
-2. Both users were able to understand the meaning of the visual and the interpretation being derived from them.
+Viewer 2 (in their 50s):
+Viewer 2 felt that the horizontal bar graph was clear and communicated the size of the bank in terms of market capitalisation. They also felt that the treemap had colour gradation, but the volume of market capitalisation was not mentioned. They suggested to add it below the country name. They also felt a little lost in terms of what was being communicated from both the graphs.  
  
 Based on the feedback provided by the 2 users, I moved on to change my visual accordingly.
+
+Building my solution:
+
+I decided to stick with the treemap as this chart communicates what the article focuses on - Switzerland's individual banks are no heavyweights in terms of market capitalization in comparison with other countries.
+
+Treemap allows you to represent a hierarchically-ordered (tree-structured) set of data. The conceptual idea is to compare market capitalization quantities and show patterns within countries. For that purpose, I used rectangles of different sizes and colors to display the dataset from a different perspective. The goal of this visualization is not to indicate the exact market capitalization values, but to “break” the dataset into countries and quickly identify Switzerland's market capitalization. For this purpose, I used two contrasting colors to highlight the country in focus Switzerland. I chose a title that adds value to the visualization. 
+
+I found this critique method very intuitve and it was easy to focus on what needs to be imporved and more importantly, it was very helpful in comparing the redesigned vizualisation with the original in the same categories to see if there are improvements.
+
+Here's my visualization:
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11239665"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

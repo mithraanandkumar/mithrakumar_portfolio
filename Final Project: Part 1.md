@@ -21,4 +21,12 @@ In order highlight the importance of public health we will consider the followin
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113000842/192432760-c0af6ebb-87ee-4a64-8ce7-67f39bced1e2.png">
 
 
+# Data
+
+
+
+
+
+# Method and Medium
+
 

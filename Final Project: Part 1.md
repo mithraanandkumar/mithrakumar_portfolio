@@ -1,4 +1,4 @@
-# Part I: Final project
+# Part I: Final Project
 
 # Outline
 

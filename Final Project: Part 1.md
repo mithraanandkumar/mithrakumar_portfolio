@@ -12,7 +12,7 @@ In order highlight the importance of public health we will consider the followin
 2. Success of Vaccinations Case Study: Polio
 3. Prevention of Infant and Maternal Mortality 
 
-# Initial sketches
+# Initial Sketches
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113000842/192429836-6e9e9be3-4730-4167-b3ae-5a379cd0ee20.png">
 

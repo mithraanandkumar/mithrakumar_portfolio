@@ -8,7 +8,7 @@ High Level Summary: Focusing on public health leads to healthier lives.
 
 In order highlight the importance of public health we will consider the following sections:
 
-1. Overall historical markers
+1. Overall Historical Markers
 2. Success of Vaccinations Case Study: Polio
 3. Prevention of Infant and Maternal Mortality 
 

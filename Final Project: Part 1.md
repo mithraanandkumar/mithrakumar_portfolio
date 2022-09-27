@@ -16,10 +16,6 @@ In order highlight the importance of public health we will consider the followin
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113000842/192429836-6e9e9be3-4730-4167-b3ae-5a379cd0ee20.png">
 
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/113000842/192432628-2045502a-4796-4141-bb3b-f65db6713f22.png">
-
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/113000842/192432760-c0af6ebb-87ee-4a64-8ce7-67f39bced1e2.png">
-
 
 # Data
 

@@ -37,7 +37,12 @@ For this, I want to show a dual axis graph that shows how the increase in vaccin
 
 For this, I have used a world map with a sequential color palatte to represent the range of infant mortality rates. 
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/113000842/192662626-920b7a14-cb02-4ff3-8f5c-8e2a62b65a1a.png">
+
 I am also planning on using the infant mortality data for the US across years to sketch a line graph that portrays the trend across the years. This will show how public health interventions have lead to the decline in infant mortality rates. 
+
+<img width="1115" alt="image" src="https://user-images.githubusercontent.com/113000842/192663336-4953f5a4-c71c-441f-bd38-3c27dbfa8825.png">
+
 
 # Data
 

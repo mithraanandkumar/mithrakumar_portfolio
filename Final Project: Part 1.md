@@ -14,7 +14,7 @@ In order highlight the importance of public health we will consider the followin
 
 Audience: US Public (mostly people interested in learning about public health just like me!)
 
-I aim to take my audience through a journey back in time and highlight the major historical markers in public health. I will start by providing an introduction to public health,then walk them through the timeline of historical markers, then focus on just one disease: Polio, then provide evidence on how focusing on public health has resulted in the prevention of infant mortality and maternal mortality, then touch upon COVID-19 and Monkey Pox, and finally concluding by providing recommendations to the audience. 
+I aim to take my audience through a journey back in time and highlight the major historical markers in public health. I will start by providing an introduction to public health,then walk them through the timeline of historical markers, then focus on just one disease: Polio, then provide evidence on how focusing on public health has resulted in the prevention of infant mortality and maternal mortality, then touch upon COVID-19 and Monkey Pox, and finally conclude by providing recommendations to the audience. 
 
 ![image](https://user-images.githubusercontent.com/113000842/192652452-dd52672e-bea4-4e2d-83c7-d0045edd52d4.png)
 

@@ -53,9 +53,9 @@ To tell this story the following datasets are to be incorporated:
             a. https://ourworldindata.org/grapher/reported-paralytic-polio-cases-and-deaths-in-the-united-states-since-1910 - This dataset contains data on
             the number of deaths due to Polio in the US from 1910 to 2019. 
             b. https://ourworldindata.org/vaccination This dataset shows the global vaccination coverage of one-year-olds with some of the most important               vaccines recommended by the WHO. Data for US can be filtered from this dataset. 
- 3. For the thrid and fourth sketch, 
-
+ 3. For the thrid and fourth sketch, I plan on using https://ourworldindata.org/child-mortality dataset. This dataset contains the mortality of infants and children across years for various countries. This datset will be filtered to US for the fourth sketch. 
 
 # Method and Medium
 
+For the implementation of this project, I plan on using Shorthand and data visualization tools like Tableau and Flourish.
 

@@ -48,12 +48,11 @@ I am also planning on using the infant mortality data for the US across years to
 
 To tell this story the following datasets are to be incorporated:
 
-1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7170188/ - Table Historical Markers and Deutsche Welle Focus: Millennium Development Goals Available at: http://www.dw-world.de/dw/article/0,,6003071,00.html). The data from these two sources will be used to create the timeline from 5000 BCE to 2011. 
+1. [Data 1] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7170188/) - Table Historical Markers and Deutsche Welle Focus: Millennium Development Goals Available [here] (http://www.dw-world.de/dw/article/0,,6003071,00.html). The data from these two sources will be used to create the timeline from 5000 BCE to 2011. 
 2. For the second sketch, I will be using the following datasets:
-            a. https://ourworldindata.org/grapher/reported-paralytic-polio-cases-and-deaths-in-the-united-states-since-1910 - This dataset contains data on
-            the number of deaths due to Polio in the US from 1910 to 2019. 
-            b. https://ourworldindata.org/vaccination This dataset shows the global vaccination coverage of one-year-olds with some of the most important               vaccines recommended by the WHO. Data for US can be filtered from this dataset. 
- 3. For the thrid and fourth sketch, I plan on using https://ourworldindata.org/child-mortality dataset. This dataset contains the mortality of infants and children across years for various countries. This datset will be filtered to US for the fourth sketch. 
+            a. [Data 2] (https://ourworldindata.org/grapher/reported-paralytic-polio-cases-and-deaths-in-the-united-states-since-1910) - This dataset                   contains data on the number of deaths due to Polio in the US from 1910 to 2019. 
+            b. [Data 3] (https://ourworldindata.org/vaccination) This dataset shows the global vaccination coverage of one-year-olds with some of the most              important vaccines recommended by the WHO. Data for US can be filtered from this dataset. 
+ 3. For the thrid and fourth sketch, I plan on using [Data 4] (https://ourworldindata.org/child-mortality) dataset. This dataset contains the mortality of infants and children across years for various countries. This datset will be filtered to US for the fourth sketch. 
 
 # Method and Medium
 

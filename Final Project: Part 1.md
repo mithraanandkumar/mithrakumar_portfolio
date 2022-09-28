@@ -21,19 +21,19 @@ I aim to take my audience through a journey back in time and highlight the major
 
 # Initial Sketches
 
-Sketch 1: Overall Historical Markers
+### Sketch 1: Overall Historical Markers
 
 For this, I wanted to make an interactive timeline which highlights the major historical markers over the years from 5000 BCE to recent years. The draft for this is shown below. Based on the critique I received, I will try to reduce the text information in the chart and make it ineteractive so that when the viewer clicks on the historical event they will be provided with more information regarding the event along with pictures. 
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/113000842/192429836-6e9e9be3-4730-4167-b3ae-5a379cd0ee20.png">
 
-Sketch 2: Success Of Vaccinations Case Study - Polio
+### Sketch 2: Success Of Vaccinations Case Study - Polio
 
 For this, I want to show a dual axis graph that shows how the increase in vaccinations lead to the decrease in the number of deaths due to Polio. The x-axis would represent the year. The left side y-axis would represent a line graph that portrays the number of deaths due to polio across the years. The right side y-axis would represent a bar graph that shows the number of children vaccinated for Polio.  
 
 <img width="572" alt="image" src="https://user-images.githubusercontent.com/113000842/192655067-d4b6eb6e-3b66-429a-8c11-6db4f5fddda4.png">
 
-Sketch 3&4: Prevention of Infant Mortality
+### Sketch 3&4: Prevention of Infant Mortality
 
 For this, I have used a world map with a sequential color palatte to represent the range of infant mortality rates. 
 

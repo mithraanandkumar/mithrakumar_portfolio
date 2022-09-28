@@ -29,7 +29,7 @@ For this, I wanted to make an interactive timeline which highlights the major hi
 
 ### Sketch 2: Success Of Vaccinations Case Study - Polio
 
-For this, I want to show a dual axis graph that shows how the increase in vaccinations lead to the decrease in the number of deaths due to Polio (focusing on US). The x-axis would represent the year. The left side y-axis would represent a line graph that portrays the number of deaths due to polio across the years. The right side y-axis would represent a bar graph that shows the number of children vaccinated for Polio.  
+For this, I wanted to make a dual axis graph that shows how the increase in vaccinations lead to the decrease in the number of deaths due to Polio (focusing on US). The x-axis would represent the year. The left side y-axis would represent a line graph that portrays the number of deaths due to polio across the years. The right side y-axis would represent a bar graph that shows the number of children vaccinated for Polio.  
 
 <img width="572" alt="image" src="https://user-images.githubusercontent.com/113000842/192655067-d4b6eb6e-3b66-429a-8c11-6db4f5fddda4.png">
 

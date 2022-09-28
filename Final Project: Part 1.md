@@ -59,3 +59,6 @@ To tell this story the following datasets are to be incorporated:
 
 For the implementation of this project, I plan on using Shorthand and data visualization tools like Tableau and Flourish.
 
+Data visualizations like the ones sketched above will be done primarily using Tableau and Flourish. I chose these platforms because of their versatility and ability to create complex graphs in a user-friendly manner. These visualizations will go through multiple iterations based on feedback received from peers.
+
+The project will include a series of wireframes and storyboards made from Balsamiq. These wireframes and storyboards will also be tested and go through multiple changes based on user feedback and peer review. The final website will be completed using Shorthand as the medium. 

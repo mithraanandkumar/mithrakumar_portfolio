@@ -35,6 +35,25 @@ Can you summarize the central idea of the webpage?  | The central idea as I unde
 Do you understand the flow of topics, is the flow of information correct? | Yes it is clear
 Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend? | It is persuasive in it's current form. However, the story needs to further elaborate what the incentives are for people to do their small part in upholding public health initiatives. What is their benefit from being a responsible citizen?
 
+Person 2:
+Question     | Response
+------------ | -------------
+What worked? What was exciting? And what resonated with you? | I liked how the wireframes painted a picture of public health over the years. Kind of like a story of how healthcare evolved over the years. I think the numbers and the years really helped. I really liked the graphs that helped visualize the changes.
+What didn’t work? Is there anything you would change? | Everything seemed great. I was just wondering if the graphs are super accurate given that they are hand drawn? Apart from that, everything else is great.
+Can you summarize the central idea of the webpage?  | The central idea in my opinion is the evolution of health and the circumstances that led to all the developments till date.
+Do you understand the flow of topics, is the flow of information correct? | Yes. It's clear and the way the dates started from 3000 BC was interesting and informative.
+Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend? | I believe it's very persuasive. Don't have any suggestions at the moment. Looks great to me!
+
+Person 3:
+Question     | Response
+------------ | -------------
+What worked? What was exciting? And what resonated with you? | Data sharing is interesting and historical information excited me. The graphs speak for themselves.
+What didn’t work? Is there anything you would change? | A bit more clear images of the notes
+Can you summarize the central idea of the webpage?  | The web page centers on Public health
+Do you understand the flow of topics, is the flow of information correct? | Yes, the years and periods are mentioned
+Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend? | A few pictures may help to attract more attention from the intended audience
+
+
 
 Reflection on Feedback: 
 Since I had added a lot of years in the historic milestones, people found it long. Cutting them short and keeping only the important ones will help convey an impactful message. I had hand drawn the graphs and the autheticity of the data was questioned. Since the final story will be presented using shorthand, I will be using data visualization platforms like flourish and tableau to convey my story. People also suggested to include pictures to make it more impactful. Everyone seemed to like the timeline to walk them through all the important milestones. 

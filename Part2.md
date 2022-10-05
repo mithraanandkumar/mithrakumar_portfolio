@@ -22,7 +22,7 @@ The following questions were asked:
 4. Do you understand the flow of topics, is the flow of information correct?
 5. Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend?
 
-Click h[here]() for responses. 
+Click [here]() for responses. 
 
 Reflection on Feedback: 
 Since I had added a lot of years in the historic milestones, people found it long. Cutting them short and keeping only the important ones will help convey an impactful message. I had hand drawn the graphs and the autheticity of the data was questioned. Since the final story will be presented using shorthand, I will be using data visualization platforms like flourish and tableau to convey my story. People also suggested to include pictures to make it more impactful. Everyone seemed to like the timeline to walk them through all the important milestones. 

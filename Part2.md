@@ -55,7 +55,7 @@ Do you think the storyline is persuasive enough to inspire action in the intende
 
 
 
-Reflection on Feedback: 
+## Reflection on Feedback: 
 Since I had added a lot of years in the historic milestones, people found it long. Cutting them short and keeping only the important ones will help convey an impactful message. I had hand drawn the graphs and the autheticity of the data was questioned. Since the final story will be presented using shorthand, I will be using data visualization platforms like flourish and tableau to convey my story. People also suggested to include pictures to make it more impactful. Everyone seemed to like the timeline to walk them through all the important milestones. 
 
 ## Changes to be implemented:

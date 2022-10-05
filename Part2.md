@@ -61,4 +61,5 @@ Since I had added a lot of years in the historic milestones, people found it lon
 ## Changes to be implemented:
 1. Adding and refining the current visualizations with clearer legends and labels, color scheme.
 2. Integrate the changes on shorthand.
-3. Using impactful pictures to support the story
+3. Using impactful pictures to support the story.
+4. Focus more on incentives for people to volunteer or donate to public health initiatives. Quantify their contributions (how their actions help).

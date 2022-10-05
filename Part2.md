@@ -24,7 +24,7 @@ The following questions were asked:
 4. Do you understand the flow of topics, is the flow of information correct?
 5. Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend?
 
-Click [here]() for responses.
+Responses:
 
 Person 1:
 Question     | Response

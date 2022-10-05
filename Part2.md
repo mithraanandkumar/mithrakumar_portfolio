@@ -24,7 +24,17 @@ The following questions were asked:
 4. Do you understand the flow of topics, is the flow of information correct?
 5. Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend?
 
-Click [here]() for responses. 
+Click [here]() for responses.
+
+Person 1:
+Question     | Response
+------------ | -------------
+What worked? What was exciting? And what resonated with you? | Well constructed timeline, with significant milestones conveyed. It was exciting to notice the impact public health has had on society and appreciate the same. As a person from healthcare background, the call to action resonated well
+What didn’t work? Is there anything you would change? | Milestones can be further narrowed to public health results, and the impact of vaccinations can be conveyed with even more impact
+Can you summarize the central idea of the webpage?  | The central idea as I understand is understanding the evolution of public health and its success in order to be more responsible, community-driven individuals
+Do you understand the flow of topics, is the flow of information correct? | Yes it is clear
+Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend? | It is persuasive in it's current form. However, the story needs to further elaborate what the incentives are for people to do their small part in upholding public health initiatives. What is their benefit from being a responsible citizen?
+
 
 Reflection on Feedback: 
 Since I had added a lot of years in the historic milestones, people found it long. Cutting them short and keeping only the important ones will help convey an impactful message. I had hand drawn the graphs and the autheticity of the data was questioned. Since the final story will be presented using shorthand, I will be using data visualization platforms like flourish and tableau to convey my story. People also suggested to include pictures to make it more impactful. Everyone seemed to like the timeline to walk them through all the important milestones. 

@@ -4,6 +4,8 @@
 
 Wireframes for this project are made using index cards. Each card represents one visualization. I have written some text to along with the wireframes to organize my thoughts. [Click Here for Wireframe](https://docs.google.com/document/d/15x_DpKNcZggqeoSwNl5UowF1iA0ttP4sbC-LIaCVlU4/edit?usp=sharing)
 
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/113000842/193974060-44498263-8163-4671-b5e8-5088c94c2496.png">
+
 ## B. User Research
 
 Audience: US Public (mostly people interested in learning about public health just like me!)

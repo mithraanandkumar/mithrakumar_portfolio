@@ -39,7 +39,7 @@ The flow of the story makes much more sense now after implemting the project.
 
 I learnt that telling a story through visualizations is a creative and iterative process. All the feedbacks I have received have helped me understand that building a narrative that fits the entire audience is hard, but my creating personas, and mapping a journey helps in understanding who your audience is better. I have also learnt how to use Shorthand effectively. From my topic, I learnt the origins of public health and understood the importance of it. For the collective good health of people, it is very important to take steps that help us prevent another pandemic. 
 
-Please click [here]( ) to view my presentation. 
+Please click [here](https://carnegiemellon.shorthandstories.com/you-and-i-make-we/index.html) to view my presentation. 
 
 References:
 

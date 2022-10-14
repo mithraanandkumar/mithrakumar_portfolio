@@ -1,3 +1,5 @@
+[Go back to main page](/README.md)
+
 # Part II
 
 ## A. Wireframe/Storyboard
@@ -66,3 +68,6 @@ Since I had added a lot of years in the historic milestones, people found it lon
 2. Integrate the changes on shorthand.
 3. Using impactful pictures to support the story.
 4. Focus more on incentives for people to volunteer or donate to public health initiatives. Quantify their contributions (how their actions help).
+
+
+[Go back to main page](/README.md)

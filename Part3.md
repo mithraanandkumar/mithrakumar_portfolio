@@ -1,3 +1,5 @@
+[Go back to main page](/README.md)
+
 # Part 3
 
 After giving careful thought to the feedback and comments received from different people, I decided that the general American public, students and anti vaccination people will be my targeted audience. I thus concentrated heavily on the following aspects in order to properly communicate my story:
@@ -50,3 +52,6 @@ References:
 5.  Polio Death Rates: [Our World Data](https://ourworldindata.org/vaccination)
 6.  WP Company. (2021, October 3). History's deadliest pandemics, from ancient rome to Modern America. The Washington Post. Retrieved October 13, 2022, from [here](https://www.washingtonpost.com/graphics/2020/local/retropolis/coronavirus-deadliest-pandemics/) 
 7.  Smallpox: Guy (1882) and several years of the Registrar General of births, deaths, and marriages in England, [Our World Data](https://ourworldindata.org/smallpox)
+
+
+[Go back to main page](/README.md)

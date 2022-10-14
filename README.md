@@ -18,6 +18,7 @@ Here's my awesome portfolio. Hope you like it!
 3. [Project Proposal 1](/Part_1.md)
 4. [Project Proposal 2](/Part2.md)
 5. [Project Proposal 3](/Part3.md)
+6. [Final Project](/FinalProject.md)
 
 
 

@@ -103,7 +103,8 @@ The following questions were asked:
 
 Responses:
 
-Person 1:
+Person 1
+
 | Question     | Response |
 | ------------ | ------------- |
 | What worked? What was exciting? And what resonated with you? | Well constructed timeline, with significant milestones conveyed. It was exciting to notice the impact public health has had on society and appreciate the same. As a person from healthcare background, the call to action resonated well |
@@ -112,7 +113,8 @@ Person 1:
 | Do you understand the flow of topics, is the flow of information correct? | Yes it is clear |
 | Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend? | It is persuasive in it's current form. However, the story needs to further elaborate what the incentives are for people to do their small part in upholding public health initiatives. What is their benefit from being a responsible citizen? |
 
-Person 2:
+Person 2
+
 | Question     | Response |
 | ------------ | ------------- |
 | What worked? What was exciting? And what resonated with you? | I liked how the wireframes painted a picture of public health over the years. Kind of like a story of how healthcare evolved over the years. I think the numbers and the years really helped. I really liked the graphs that helped visualize the changes. |
@@ -121,7 +123,8 @@ Person 2:
 | Do you understand the flow of topics, is the flow of information correct? | Yes. It's clear and the way the dates started from 3000 BC was interesting and informative. |
 | Do you think the storyline is persuasive enough to inspire action in the intended audience? If it is not persuasive, are there modifications that you would recommend? | I believe it's very persuasive. Don't have any suggestions at the moment. Looks great to me! |
 
-Person 3:
+Person 3
+
 | Question     | Response |
 | ------------ | ------------- |
 | What worked? What was exciting? And what resonated with you? | Data sharing is interesting and historical information excited me. The graphs speak for themselves. |

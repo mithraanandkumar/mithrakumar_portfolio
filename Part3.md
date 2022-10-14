@@ -16,3 +16,5 @@ In spite of the fact that the project's scope is fairly vast and there are still
 I wanted to go in depth and give audience information regarding the important historical milestones but based on the feedback I received, I decided to stick to major events that occured through these years. 
 
 Implementing the timeline was tricky. I had used a new tool called visme to create it. Please click [here](https://my.visme.co/view/90o0vd0p-owplnmyzm6x32zd6) to view the visualization.
+
+

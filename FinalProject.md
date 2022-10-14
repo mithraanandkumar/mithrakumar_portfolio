@@ -1,9 +1,9 @@
 # Final Project: You and I Make "We"
 
 Contents:
-1. [Part I](#Part_1)
-2. [Part II](#Part2)
-3. [Part III](#Part3)
+1. [Part I](/Part_1.md)
+2. [Part II](/Part2.md)
+3. [Part III](/Part3.md)
 
 ***
 
@@ -71,7 +71,7 @@ Data visualizations like the ones sketched above will be done primarily using Ta
 
 The project will include a series of wireframes and storyboards made from Balsamiq. These wireframes and storyboards will also be tested and go through multiple changes based on user feedback and peer review. The final website will be completed using Shorthand as the medium. 
 
-[Go back to main page](/README.md) | [Part II](#Part2) | [Part III](#Part3)
+[Go back to main page](/README.md) | [Part II](/Part2.md) | [Part III](/Part3.md)
 
 ***
 
@@ -142,7 +142,7 @@ Since I had added a lot of years in the historic milestones, people found it lon
 4. Focus more on incentives for people to volunteer or donate to public health initiatives. Quantify their contributions (how their actions help).
 
 
-[Go back to main page](/README.md) | [Part I](#Part_1) | [Part III](#Part3)
+[Go back to main page](/README.md) | [Part I](/Part_1.md) | [Part III](#/Part3.md)
 
 ***
 
@@ -200,4 +200,4 @@ References:
 7.  Smallpox: Guy (1882) and several years of the Registrar General of births, deaths, and marriages in England, [Our World Data](https://ourworldindata.org/smallpox)
 
 
-[Go back to main page](/README.md) | [Part I](#Part_1) | [Part II](#Part2)
+[Go back to main page](/README.md) | [Part I](/Part_1.md) | [Part II](/Part2.md)

@@ -1,3 +1,5 @@
+[Go back to main page](/README.md)
+
 # Assignment 3&4: Critique by Design
 
 ## Introduction
@@ -62,3 +64,4 @@ Here's my visualization:
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11239665"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+[Go back to main page](/README.md)
